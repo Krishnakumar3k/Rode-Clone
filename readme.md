@@ -1,10 +1,10 @@
 # Project-Rode Clone HTML and  Tailwind CSS
 
-![Badge]()
+![Badge](https://img.shields.io/badge/Rode-Rode--Clone-green)
 
-# [Link of live Project]()
+# [Link of live Project](https://rodebits.netlify.app/)
 
-![Images](./img/landing.png)
+![Images](./img/landingpage.jpeg)
 
 # What I learnt here from this project-
 
